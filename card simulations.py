@@ -1,4 +1,4 @@
-#making the dedck of cards
+#making the deck of cards
 import random
 
 class Card:
